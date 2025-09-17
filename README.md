@@ -14,4 +14,4 @@ Fruit-Shop-Landing/
 - style.css
 - 📂Images folder / images
 ## 👉 Visit Website
-**[👉 Visit the Website](https://mohamed-alnagar.github.io/Landing-Page/)** 
+**[🌍  Visit the Website](https://mohamed-alnagar.github.io/Landing-Page/)** 
